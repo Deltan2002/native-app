@@ -14,6 +14,7 @@ const COLORS = {
     regular: "DMRegular",
     medium: "DMMedium",
     bold: "DMBold",
+    extrabold: "DMExtrabold",
   };
   
   const SIZES = {
